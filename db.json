@@ -2,23 +2,27 @@
   "products": [
     {
       "id": 1,
-      "name": "fffff",
-      "price": "329.78"
+      "name": "Black Cap",
+      "img": "https://image.shutterstock.com/z/stock-photo-hipster-handsome-male-model-with-beard-wearing-black-blank-t-shirt-and-a-black-baseball-cap-with-1057235702.jpg",
+      "price": "29.79"
     },
     {
       "id": 2,
-      "name": "fffff",
+      "name": "Gray Hoodie",
+      "img": "https://image.shutterstock.com/z/stock-photo-gray-hoodie-480286267.jpg",
       "price": "125.53"
     },
     {
       "id": 3,
-      "name": "fffff",
-      "price": "329.78"
+      "name": "Black T-shirt",
+      "img": "https://image.shutterstock.com/z/stock-photo-close-up-of-man-in-blank-t-shirt-140861086.jpg",
+      "price": "59.99"
     },
     {
       "id": 4,
-      "name": "fffff",
-      "price": "125.53"
+      "name": "Blue Jeans",
+      "img": "https://image.shutterstock.com/z/stock-photo-woman-wearing-of-jean-pants-from-back-female-bottom-in-tight-jeans-786763129.jpg",
+      "price": "329.17"
     }
   ],
   "aleMak": {
