@@ -1,15 +1,27 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "fffff",
+      "price": "329.78"
     },
     {
       "id": 2,
-      "title": "goodbye"
+      "name": "fffff",
+      "price": "125.53"
+    },
+    {
+      "id": 3,
+      "name": "fffff",
+      "price": "329.78"
+    },
+    {
+      "id": 4,
+      "name": "fffff",
+      "price": "125.53"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "aleMak": {
+    "pixel": "perfect"
   }
 }
